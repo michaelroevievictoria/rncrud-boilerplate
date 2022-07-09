@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "fireBaseFetch",
+    "slug": "fireBaseFetch",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
